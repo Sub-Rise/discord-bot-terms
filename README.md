@@ -1,2 +1,2 @@
 # discord-bot-terms
-cXSHoz Botの利用規約とプライバシーポリシー
+cXS Botの利用規約とプライバシーポリシー
